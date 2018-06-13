@@ -21,7 +21,7 @@ title_separator          : ":"
 name                     : "梁嘉颖"
 description              : "使用Jekyll搭建的网站"
 url                      : "https://jiayingb.gitee.io"
-baseurl                  : "/minimal-mistakes"
+baseurl                  : "/minimal-mistakes" 
 repository               : "jiayingb/minimal-mistakes"
 teaser                   : "500x300.png"
 # breadcrumbs            : false # true, false (default)
